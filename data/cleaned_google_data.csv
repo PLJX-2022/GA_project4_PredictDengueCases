@@ -1,4 +1,4 @@
-,Week,Dengue fever: (Singapore),Dengue: (Singapore),Mosquito: (Singapore),Insect repellent: (Singapore),Dengue fever: (Singapore)diff,Dengue fever: (Singapore)2nd_diff,Dengue: (Singapore)diff,Dengue: (Singapore)2nd_diff,Mosquito: (Singapore)diff,Mosquito: (Singapore)2nd_diff,Insect repellent: (Singapore)diff,Insect repellent: (Singapore)2nd_diff
+,week,dengue_fever,dengue,mosquito,insect_repellent,dengue_fever_diff,dengue_fever_2nd_diff,dengue_diff,dengue_2nd_diff,mosquito_diff,mosquito_2nd_diff,insect_repellent_diff,insect_repellent_2nd_diff
 0,2013-05-26,33,30,10,2,,,,,,,,
 1,2013-06-02,29,28,9,3,-4.0,,-2.0,,-1.0,,1.0,
 2,2013-06-09,56,52,18,4,27.0,31.0,24.0,26.0,9.0,10.0,1.0,0.0

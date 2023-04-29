@@ -24,6 +24,7 @@ In view of the NEA's KPI and annual budget given
 **Modeling**
 
 We test and error different models for separate sets of regional data and came up with the Ensemble Models based on the best performing models:
+
 ![image](https://user-images.githubusercontent.com/121992397/235281778-25480f7a-c6ee-411a-8cfd-c7fa4dd07698.png)
 
 
